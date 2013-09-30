@@ -10,4 +10,4 @@ quick-cocos2d-x离线API文档
 ###2、本地没有的路径会指向WIKI上的。
 ###3、在每个页面加了指向主页面的链接。
 ###4、以后会跟随版本升级进行更新。
-###5、已放到官网的WIKI上，地址:http://wiki.quick-x.com/doku.php?id=zh_cn:api:download。
+###5、已放到官网的WIKI上，地址:http://wiki.quick-x.com/doku.php?id=zh_cn:api:download
